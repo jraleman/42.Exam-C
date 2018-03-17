@@ -26,7 +26,7 @@ int		main(int argc, char *argv[])
 				letter += 1;
 			if (argv[1][i] >= 'a' && argv[1][i] <= 'y')
 				letter += 1;
-			if (argv[1][i] == 'z' || argv[1][i] == 'z')
+			if (argv[1][i] == 'z' || argv[1][i] == 'Z')
 				letter -= 25;
 			write(1, &letter, 1);
 			i += 1;
