@@ -15,14 +15,14 @@
 void	ft_union(char *str1, char *str2)
 {
 	int		i;
-	char	str_union[4096];
+	int     str_union[4096];
 
 	i = 0;
 	while (str1[i])
 	{
-		if (!str_union[str1[i]])
+		if (!str_union[(int)str1[i]])
 		{
-			str_union[str1[i]] = 1;
+			str_union[(int)str1[i]] = 1;
 			write (1, &str1[i], 1);
 		}
 		i += 1;
@@ -30,9 +30,9 @@ void	ft_union(char *str1, char *str2)
 	i = 0;
 	while (str2[i])
 	{
-		if (!str_union[str2[i]])
+		if (!str_union[(int)str2[i]])
 		{
-			str_union[str2[i]] = 1;
+			str_union[(int)str2[i]] = 1;
 			write (1, &str2[i], 1);
 		}
 		i += 1;
