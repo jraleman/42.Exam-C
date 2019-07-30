@@ -12,7 +12,7 @@
 
 #include <stdlib.h>
 
-char    *ft_itoa_base(int nbr)
+char    *ft_itoa(int nbr)
 {
 	int		len;
 	long	n;
