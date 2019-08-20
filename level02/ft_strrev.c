@@ -26,6 +26,5 @@ char		*ft_strrev(char *str)
 		str[i] = str[len];
 		str[len] = tmp;
 	}
-	str[i] = '\0';
 	return (str);
 }
