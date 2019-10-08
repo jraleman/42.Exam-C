@@ -14,6 +14,6 @@
 
 int		main(void)
 {
-	write(1, "aBcDeFgIjKlMnOpQrStUwXyZ\n", 25);
+	write(1, "aBcDeFgHiJkLmNoPqRsTuVwXyZ\n", 25);
 	return (0);
 }
