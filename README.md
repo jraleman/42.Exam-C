@@ -26,6 +26,10 @@ The following problems are pending, I haven't solved them yet.
 All my projects are free to read/clone on GitHub. I don't expect anyone to support me,
 but if you want, I really appreciate it from the bottom of my heart. ❤️
 
-<img alt="qrcode" src="https://user-images.githubusercontent.com/11222980/136663961-d09d6901-8106-4758-aeaa-5883b89c8726.png" style="height: 300px; width: auto;" />
+[![donate-button](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=KYAPNFS93EXUE&no_recurring=0&item_name=Donations&currency_code=USD)
 
-^ You can scan the code abover if you would like to support me with one amount, and I thank you in advance.
+⌄ You can also scan the code below if you would like to support me with a small amount.
+
+[![qr-code](https://user-images.githubusercontent.com/11222980/136798421-be9d34b2-25b3-468c-9634-d12f276f1180.png)](https://www.paypal.com/donate?business=KYAPNFS93EXUE&no_recurring=0&item_name=Donations&currency_code=USD)
+
+I thank you in advance. 🐢 🐢 🐢
